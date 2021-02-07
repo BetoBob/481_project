@@ -1,3 +1,3 @@
-# CSC 481 Project
+# Gowalla Network Analysis
 
-* open the project jupyter file
+* final project for CSC 481, in collaboration with [Ayan Patel](https://github.com/ayanpatel)
